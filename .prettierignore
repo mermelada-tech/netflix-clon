@@ -1,0 +1,4 @@
+package-lock.json
+build
+.next
+node_modules

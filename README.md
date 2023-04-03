@@ -22,7 +22,8 @@ Este proyecto es un clon de la página de inicio de Netflix, realizado siguiendo
 
 Agradecemos a los siguientes contribuidores por su ayuda en el desarrollo de este proyecto:
 
-- [Nombre del contribuidor](https://github.com/nombre_del_contribuidor)
+- [Alfonsina Lizardo](https://github.com/Alais29)
+- [Nadia Ujovich](https://github.com/nujovich)
 
 Si quieres contribuir a este proyecto, por favor, lee nuestras pautas de contribución [aquí](CONTRIBUTING.md) y envía un Pull Request con tus cambios.
 

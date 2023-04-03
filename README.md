@@ -1,38 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Netflix Clone
 
-## Getting Started
+Este proyecto es un clon de la página de inicio de Netflix, realizado siguiendo el tutorial de [Code With Antonio](https://www.youtube.com/watch?v=mqUN4N2q4qY). Está construido con [Tailwind CSS](https://tailwindcss.com/), [Next.js](https://nextjs.org/) y [TypeScript](https://www.typescriptlang.org/).
 
-First, run the development server:
+## Capturas de pantalla
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+[Coloca aquí algunas capturas de pantalla del proyecto para que los usuarios puedan ver cómo se ve.]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Características
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- Clon de la página de inicio de Netflix
+- Construido con Tailwind CSS, Next.js y TypeScript
+- Completamente responsivo
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Cómo utilizar
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+1. Clona el repositorio
+2. Instala las dependencias con `npm install`
+3. Ejecuta el servidor de desarrollo con `npm run dev`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contribuidores
 
-## Learn More
+Agradecemos a los siguientes contribuidores por su ayuda en el desarrollo de este proyecto:
 
-To learn more about Next.js, take a look at the following resources:
+- [Nombre del contribuidor](https://github.com/nombre_del_contribuidor)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Si quieres contribuir a este proyecto, por favor, lee nuestras pautas de contribución [aquí](CONTRIBUTING.md) y envía un Pull Request con tus cambios.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Licencia
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Este proyecto está bajo la licencia [MIT](LICENSE).

@@ -30,6 +30,7 @@ este proyecto:
 - [Alfonsina Lizardo](https://github.com/Alais29)
 - [Nadia Ujovich](https://github.com/nujovich)
 - [Florencia Luz Duarte](https://github.com/florluzduarte)
+- [Ares Miro](https://github.com/aresmiiro)
 
 Si quieres contribuir a este proyecto, por favor, lee nuestras pautas de
 contribución [aquí](CONTRIBUTING.md) y envía un Pull Request con tus cambios.

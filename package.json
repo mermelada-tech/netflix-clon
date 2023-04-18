@@ -20,7 +20,10 @@
     "eslint-config-next": "13.2.4",
     "eslint-config-prettier": "^8.8.0",
     "next": "13.2.4",
+<<<<<<< HEAD
     "next-auth": "^4.21.1",
+=======
+>>>>>>> main
     "prettier": "^2.8.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -29,7 +32,10 @@
   "devDependencies": {
     "@commitlint/cli": "^17.5.1",
     "@commitlint/config-conventional": "^17.4.4",
+<<<<<<< HEAD
     "@types/bcrypt": "^5.0.0",
+=======
+>>>>>>> main
     "@typescript-eslint/eslint-plugin": "^5.57.0",
     "autoprefixer": "^10.4.14",
     "commitizen": "^4.3.0",

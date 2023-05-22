@@ -28,11 +28,11 @@ model Account {
   type String
   provider String
   providerAccountId String
-  refreshe_token String? @db.String
+  refresh_token String? @db.String
   access_token String? @db.String
   expires_at Int?
-  toke_type String?
-  scpo String?
+  token_type String?
+  scope String?
   id_token String? @db.String
   session_state String?
 
@@ -43,7 +43,7 @@ model Account {
 
 model Session {
   id String @id @default(auto()) @map("_id") @db.ObjectId
-  sessionToke String @unique
+  sessionToken String @unique
   userId String @db.ObjectId
   expires DateTime
 
